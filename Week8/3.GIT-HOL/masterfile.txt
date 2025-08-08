@@ -1,0 +1,3 @@
+Initial content in master
+This is change from GitNewBranch
+This is change from master branch
